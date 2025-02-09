@@ -26,3 +26,7 @@ Feel free to fork and contribute! Open a PR if you make improvements.
 📬 Contact
 For any queries, reach out via adarshpriydarshi5656@gmail.com
 
+🙌 Contributing
+Contributions are welcome! Feel free to fork the repo and submit pull requests.
+
+🌟 Made with ❤️ by Adarsh Priydarshi
